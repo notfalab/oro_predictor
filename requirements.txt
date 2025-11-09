@@ -1,0 +1,24 @@
+# Core
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+
+# Modelos
+tensorflow
+xgboost
+optuna
+
+# APIs y Red
+requests
+polygon-api-client
+fredapi
+
+# Procesamiento
+pandas-ta
+nltk
+beautifulsoup4
+
+# Visualización
+plotly
